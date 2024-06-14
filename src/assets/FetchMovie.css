@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.movies
+{
+    height: 690px;
+    background-color: gray;
+}
+.inputname
+{
+    /* margin-top: 20px; */
+}
+
+input
+{
+    height: 40px;
+    width: 300px;
+    padding: 10px;
+    display: flex;
+    margin: auto;
+
+}
+.moviename
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 50px;
+}
